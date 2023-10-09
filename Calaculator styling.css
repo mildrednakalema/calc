@@ -1,0 +1,44 @@
+.MD{
+    background-color: green;
+}
+.NK{
+    background-color: red;
+}
+body{
+    font-weight: 500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.clc{
+    border: 2px solid #ccc;
+    max-width: 28rem;
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 2px 2px 2px 2px rgba(0,0,0,0.5);
+
+}
+.input--text{
+    width: 97% ;
+    height: 3rem;
+    border: 1px solid #000;
+    padding-bottom: 1rem;
+    border-radius: 10px;
+
+}
+
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 0.2rem;
+    gap: 11px;
+}
+button{
+    width: 5rem;
+    height: 3rem;
+    border-radius: 10px;
+    font-family: 'poppins';
+    font-weight: bolder;
+}
+.long--btn{
+    width: 10.8rem ;
+}
+
